@@ -1,16 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
 #EID GIFT 
 #GIFTED BY MR-NAYIM-404 
 #TEAM U.C.A
@@ -104,9 +92,30 @@ device = {
         'fbsv':fbsv,
         'fbca':fbca,
         'fbdm':fbdm}
+os.system('clear')
+print('  \033[1;37m[\033[1;32m•\033[1;37m] THIS TOOLS OPEN-SHURCH BY MR-NAYIM-404 ')
+print('  \033[1;37m[\033[1;32m•\033[1;37m] THIS TOOLS OPEN-SHURCH BY MR-NAYIM-404 ')
+print('  \033[1;37m[\033[1;32m•\033[1;37m] THIS TOOLS OPEN-SHURCH BY MR-NAYIM-404 ')
+print('  \033[1;37m[\033[1;32m•\033[1;37m] THIS TOOLS OPEN-SHURCH BY MR-NAYIM-404 ')
+print('  \033[1;37m[\033[1;32m•\033[1;37m] THIS TOOLS OPEN-SHURCH BY MR-NAYIM-404 ')
+print('  \033[1;37m[\033[1;32m•\033[1;37m] THIS TOOLS OPEN-SHURCH BY MR-NAYIM-404 ')
+print('  \033[1;37m[\033[1;32m•\033[1;37m] THIS TOOLS OPEN-SHURCH BY MR-NAYIM-404 ')
+print('  \033[1;37m[\033[1;32m•\033[1;37m] THIS TOOLS OPEN-SHURCH BY MR-NAYIM-404 ')
+print('  \033[1;37m[\033[1;32m•\033[1;37m] THIS TOOLS OPEN-SHURCH BY MR-NAYIM-404 ')
+print('  \033[1;37m[\033[1;32m•\033[1;37m] THIS TOOLS OPEN-SHURCH BY MR-NAYIM-404 ')
+print('  \033[1;37m[\033[1;32m•\033[1;37m] THIS TOOLS OPEN-SHURCH BY MR-NAYIM-404 ')
+print('  \033[1;37m[\033[1;32m•\033[1;37m] THIS TOOLS OPEN-SHURCH BY MR-NAYIM-404 ')
+print('  \033[1;37m[\033[1;32m•\033[1;37m] THIS TOOLS OPEN-SHURCH BY MR-NAYIM-404 ')
+print('  \033[1;37m[\033[1;32m•\033[1;37m] THIS TOOLS OPEN-SHURCH BY MR-NAYIM-404 ')
+print('  \033[1;37m[\033[1;32m•\033[1;37m] THIS TOOLS OPEN-SHURCH BY MR-NAYIM-404 ')
+print('  \033[1;37m[\033[1;32m•\033[1;37m] THIS TOOLS OPEN-SHURCH BY MR-NAYIM-404 ')
+print('  \033[1;37m[\033[1;32m•\033[1;37m] THIS TOOLS OPEN-SHURCH BY MR-NAYIM-404 ')
+print('  \033[1;37m[\033[1;32m•\033[1;37m] THIS TOOLS OPEN-SHURCH BY MR-NAYIM-404 ')
+print('  \033[1;37m[\033[1;32m•\033[1;37m] THIS TOOLS OPEN-SHURCH BY MR-NAYIM-404 ')
+print('  \033[1;37m[\033[1;32m•\033[1;37m] THIS TOOLS OPEN-SHURCH BY MR-NAYIM-404 ')
 sh = input("  \033[1;37m[\033[1;32m•\033[1;37m] WHATS YOUR NAME : ")
 print('  \033[1;37m[\033[1;32m•\033[1;37m] FOLLOW MY FB ID')
-os.system('xdg-open https://www.facebook.com/OWNER.OF.MR.NAYIM.404')
+os.system('xdg-open https://www.facebook.com/TODER.ABBU.LAGI.OKh?mibextid=ZbWKwL')
 sc = input("  \033[1;37m[\033[1;32m•\033[1;37m] WHATS YOUR COUNTRY  : ")
 print('  \033[1;37m[\033[1;32m•\033[1;37m] FOLLOW MY GITHUB')
 os.system('xdg-open https://www.github.com/MR-NAYIM-404')
@@ -140,7 +149,7 @@ def linex():
 def clear():
         os.system('clear')
         print(logo)
-        os.system('xdg-open https://www.facebook.com/OWNER.OF.MR.NAYIM.404')
+        os.system('xdg-open https://www.facebook.com/TODER.ABBU.LAGI.OKh?mibextid=ZbWKwL')
 loop=0
 oks=[]
 cps=[]
@@ -162,7 +171,7 @@ def DEVIL():
 	elif gft in ['2','b','B']:
 		india()
 	elif gft in ['3','C','c']:
-		os.system('xdg-open https://www.facebook.com/OWNER.OF.MR.NAYIM.404')
+		os.system('xdg-open https://www.facebook.com/TODER.ABBU.LAGI.OKh?mibextid=ZbWKwL')
 	else:
 		exit()
 def india():
@@ -195,7 +204,7 @@ def india():
                 print(' Total OK/CP: '+str(len(oks))+'/'+str(len(cps)))
                 linex()
                 input(' Press enter to back ')
-                os.system('xdg-open https://www.facebook.com/OWNER.OF.MR.NAYIM.404')
+                os.system('xdg-open https://www.facebook.com/TODER.ABBU.LAGI.OKh?mibextid=ZbWKwL')
 def bd():
                 user=[]
                 clear()
@@ -226,7 +235,7 @@ def bd():
                 print(' Total OK/CP: '+str(len(oks))+'/'+str(len(cps)))
                 linex()
                 input(' Press enter to back ')
-                os.system('xdg-open https://www.facebook.com/OWNER.OF.MR.NAYIM.404')
+                os.system('xdg-open https://www.facebook.com/TODER.ABBU.LAGI.OKh?mibextid=ZbWKwL')
 
 
 def rndm(ids,passlist):
