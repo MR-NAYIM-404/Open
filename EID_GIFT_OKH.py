@@ -18,7 +18,7 @@ except:
 try:
         import os,requests,json,time,re,random,sys,uuid,string,subprocess
         from string import *
-        from concurrent.futures import ThreadPoolExecutor as tred
+        from concurrent.futures import ThreadPoolExecutor as ThreadPool
 except ModuleNotFoundError:
         print('\n Installing missing modules ...')
         os.system('pip install requests futures==2 > /dev/null')
